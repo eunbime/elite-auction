@@ -10,8 +10,7 @@
 
 📆 프로젝트 기간: 2023. 12. 26 ~ 2024. 01. 03 
 
-🔗 [배포 링크](elite-auction-snowy.vercel.app
-)
+🔗 [배포 링크](https://elite-auction-snowy.vercel.app/)
 
 <br/>
 
